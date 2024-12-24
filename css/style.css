@@ -1,0 +1,23 @@
+.cabecalho-pagina{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-contato{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-contato img{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.botao-adiciona{
+    justify-content: right;
+    text-align: right;
+    margin: 10px;
+}
